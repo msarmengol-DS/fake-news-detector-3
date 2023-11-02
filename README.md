@@ -10,6 +10,8 @@
   - [Project Overview](#project-overview)
   - [Installation](#installation)
   - [Usage](#usage)
+    - [🐋 Using Docker](#-using-docker)
+    - [Using Python](#using-python)
   - [Data](#data)
   - [Algorithm](#algorithm)
   - [Evaluation](#evaluation)
@@ -57,6 +59,16 @@ poetry install
 ```
 
 ## Usage
+
+### 🐋 Using Docker
+
+This project provides a docker-compose.yml file to run the project in a docker container. To run the project in a docker container, follow these steps:
+
+```bash
+docker-compose up
+``````
+
+### Using Python
 
 1. Clone this repository:
 

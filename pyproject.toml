@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "fake-news-detector"
+version = "0.1.0"
+description = ""
+authors = ["Mate <Matesanz.Cuadrado@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

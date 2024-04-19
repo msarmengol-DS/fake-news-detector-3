@@ -7,7 +7,7 @@
 - [Fake News Detection using Natural Language Processing (NLP)](#fake-news-detection-using-natural-language-processing-nlp)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
-  - [Project Overview](#project-overview)
+  - [Project Overview](##project-overview)
   - [Installation](#installation)
   - [Usage](#usage)
     - [🐋 Using Docker](#-using-docker)
